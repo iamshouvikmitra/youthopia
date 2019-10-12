@@ -8,7 +8,7 @@
  * 5.Countdown
  * 6.Pages
  * 7.Media
- *
+ * 8. Custom
  */
  
 
@@ -1660,6 +1660,10 @@ ul.countdown li p {
 	}
 }
 
+.firebaseui-card-footer {
+	display: none !important; 
+}
+
 @media (max-width: 767px) {
 	.menu {
 		font-size: 6vw;
@@ -1689,12 +1693,8 @@ ul.countdown li p {
 	}
 }
 
-
-
-
-
-
-
-
+#event-description a{
+	color: blueviolet
+}
 
 

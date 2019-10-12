@@ -130,6 +130,7 @@
     });
     DOM.ctrlBack = DOM.content.querySelector('.content__close');
     DOM.links = Array.from(document.querySelectorAll('.menu > .menu__item'));
+    DOM.links.push(document.getElementById('openSample'));
     
     DOM.links.forEach((link, pos) => {
         link.style.pointerEvents = 'none';
