@@ -1,6 +1,6 @@
 # Youthopia 2019
 
-Source code for the website for Youthopia 2019 : Techno-Cultural fest of (DIT University)[http://dituniversity.edu.in/], Dehradun. 
+Source code for the website for Youthopia 2019 : Techno-Cultural fest of [DIT University](http://dituniversity.edu.in/), Dehradun. 
 The website home page should give a decent idea about what it does.
 
 ## Installation
@@ -33,4 +33,4 @@ the default formatter is vscode-typescript.
 1. Template Reference - https://elements.envato.com/aoide-event-bootstrap-4-template-NMZ3W5
 
 ## License
-[Commercial License](https://elements.envato.com/license-terms)
+)[Commercial License)(https://elements.envato.com/license-terms)
