@@ -7,10 +7,6 @@ The website home page should give a decent idea about what it does.
 
 Simply open up index.html in your text editor of choice and start hacking! 
 
-# enthire.co
-
-Source code for the enthire.co website. The website home page should give a decent idea about what Enthire does.
-
 # Tech Stack
 
 1. Firebase for Authentication
@@ -37,4 +33,4 @@ the default formatter is vscode-typescript.
 1. Template Reference - https://elements.envato.com/aoide-event-bootstrap-4-template-NMZ3W5
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[Commercial License](https://elements.envato.com/license-terms)
